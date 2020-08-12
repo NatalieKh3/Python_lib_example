@@ -6,6 +6,8 @@ library1/utils.py
 library1.egg-info/PKG-INFO
 library1.egg-info/SOURCES.txt
 library1.egg-info/dependency_links.txt
+library1.egg-info/requires.txt
 library1.egg-info/top_level.txt
 library2/__init__.py
 library2/django_utils.py
+library2/django_utils_2.py
