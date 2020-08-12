@@ -1,6 +1,6 @@
 from kafka import KafkaProducer
 import json
-def send_kafka_message(c, "topik11"):
+def send_kafka_message(c, topicName):
     servers=["localhost:9092"]
     topicName="topik11"
     producer=KafkaProducer(bootstrap_servers=servers)
