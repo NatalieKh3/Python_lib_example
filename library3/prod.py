@@ -7,7 +7,7 @@ def send_kafka_message(c, topicName):
     # d={
     #     "name":"Natalie",
     #     "message":"Hello! My name is Natalie!"
-    }
+    # }
     c={
         "first_name":"Natalie",
         "last_name":"Hwang",
