@@ -7,6 +7,6 @@ setup(
     author_email="hvannatalya@gmail.com",
     url="https://github.com/NatalieKh3/Python_lib_example",
     license="MIT",
-    packages=["library1"],
+    packages=["library1","library2"],
     install_requires=[]
 )
