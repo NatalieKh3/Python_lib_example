@@ -11,3 +11,6 @@ library1.egg-info/top_level.txt
 library2/__init__.py
 library2/django_utils.py
 library2/django_utils_2.py
+library3/__init__.py
+library3/cons.py
+library3/prod.py

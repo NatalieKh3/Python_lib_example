@@ -7,7 +7,7 @@ setup(
     author_email="hvannatalya@gmail.com",
     url="https://github.com/NatalieKh3/Python_lib_example",
     license="MIT",
-    packages=["library1","library2"],
+    packages=["library1","library2","library3"],
     install_requires=[
         "numpy==1.19.1"
     ]
