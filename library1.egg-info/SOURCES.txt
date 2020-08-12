@@ -1,5 +1,7 @@
+README.md
 setup.py
 library1/__init__.py
+library1/newutils.py
 library1/utils.py
 library1.egg-info/PKG-INFO
 library1.egg-info/SOURCES.txt
